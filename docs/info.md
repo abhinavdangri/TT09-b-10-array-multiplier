@@ -14,9 +14,9 @@ A 4x4 array multiplier works by performing binary multiplication of two 4-bit nu
 ![image](https://github.com/user-attachments/assets/45d4e77c-b48d-422b-86de-64c34411980f)
 
 ## How to test
-
+ In Git typically involves using Verilog simulation tools and GitHub Actions to automate testing.  
 Explain how to use your project
 
 ## External hardware
-
+N/A
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
