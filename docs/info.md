@@ -9,7 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A 4x4 array multiplier works by performing binary multiplication of two 4-bit numbers. Array multipliers are a common structure in digital logic for implementing multiplication, and the Tiny Tapeout project would use an array of basic logic gates to achieve this.  
+
+![image](https://github.com/user-attachments/assets/45d4e77c-b48d-422b-86de-64c34411980f)
 
 ## How to test
 
